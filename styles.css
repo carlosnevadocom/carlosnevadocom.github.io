@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(24, 24, 24);
+}
+
+.imagen{
+    text-align: center;
+}
+
+.imagen img{
+    max-width: 100%;
+    height: auto;
+}
+
